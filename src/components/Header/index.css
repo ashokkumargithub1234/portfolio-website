@@ -1,0 +1,33 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 95vw;
+  padding-left: 32px;
+  padding-right: 32px;
+  margin-bottom: 0px;
+}
+.content-header {
+  width: 40%;
+  font-family: "Comfortaa";
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 32px;
+  color: #25282b;
+  text-align: center;
+}
+.menus-link {
+  width: 48%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  background-color: #fdc435;
+}
+.menu-item {
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  color: #25282b;
+}

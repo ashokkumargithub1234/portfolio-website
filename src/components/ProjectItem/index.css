@@ -1,0 +1,43 @@
+.project-item {
+  width: 90%;
+  border-bottom: 1px solid #000000;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 26px;
+}
+
+.name {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: #12022f;
+  padding: 0px;
+  margin: 0px;
+}
+
+.link {
+  padding: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+  border-radius: 8px;
+  border: 1px solid black;
+  align-self: flex-start;
+  padding: 8px;
+  margin-bottom: 26px;
+}
+
+.description {
+  padding: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #9aa5b1;
+}
